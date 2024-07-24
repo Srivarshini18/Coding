@@ -1,0 +1,33 @@
+//## Convert all the possible combinations of datatypes. 
+    //##Eg. list to tuple, list to set, int to float, float to int etc. 
+
+//#int to float
+a = 10
+b = float(a)
+print(b)
+o/p = 10.0
+
+//#float to Int
+a= 20.54
+b=int(a)
+print(b)
+o/p = 20
+
+//#list to tuple
+a = [1,2,3]
+b = tuple(a)
+print(b)
+o/p = (1,2,3)
+
+//#list to set
+a=[1,1,2,2,3,8]
+b=set(a)
+print(b)
+o/p={1,2,3,8}
+
+//#int to string
+a= 10
+print(str(a))
+
+o/p="10"
+
