@@ -43,3 +43,5 @@ else:
     print("You're a woman.")
   else:
     print("I'm sorry, but I can't identify.")
+
+o/p = You're a man
